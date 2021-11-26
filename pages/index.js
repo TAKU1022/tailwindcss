@@ -17,7 +17,7 @@ export default function Home() {
                 <p className="text-gray-700 text-lg">ダミーテキスト{number}</p>
               </div>
             </div>
-            <button className="rounded bg-green-400 text-gray-100 py-1 px-4 mt-2 transition-all hover:bg-green-500">
+            <button className="rounded bg-green-400 text-gray-100 py-1 px-4 mt-2 transition-all hover:bg-green-500 focus:bg-green-500">
               DOする
             </button>
           </li>
