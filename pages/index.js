@@ -20,6 +20,8 @@ export default function Home() {
             <button className="rounded bg-green-400 text-gray-100 py-1 px-4 mt-2 transition-all hover:bg-green-500 focus:bg-green-500">
               DOする
             </button>
+
+            <button></button>
           </li>
         ))}
       </ul>
